@@ -2,7 +2,7 @@
 
 This website is focused on the adorable ferrets in life, such as this one:
 
-![Image](src="[https://www.vetcarepethospital.ca/wp-content/uploads/sites/247/2022/03/ferret1.png](https://assets.petco.com/petco/image/upload/c_pad,dpr_1.0,f_auto,q_auto,h_636,w_636/c_pad,h_636,w_636/153044-left-1)")
+![Image](src=["https://upload.wikimedia.org/wikipedia/commons/3/32/Ferret_2008.png"])
 
 See how cute that was? I know, right?
 
