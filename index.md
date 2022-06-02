@@ -1,16 +1,15 @@
-## Welcome to GitHub Pages
+## Ferrets
 
-You can use the [editor on GitHub](https://github.com/White-Vaxon/ferret.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is focused on the adorable ferrets in life, such as this one:
+![Image](src="https://www.vetcarepethospital.ca/wp-content/uploads/sites/247/2022/03/ferret1.png")
+See how cute that was? I know, right?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Creator of this site
 
-### Markdown
+Rafael Schwartz - the Nerd in training.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
+After this line, it's the theme template of github.
 # Header 1
 ## Header 2
 ### Header 3
@@ -23,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src="https://www.vetcarepethospital.ca/wp-content/uploads/sites/247/2022/03/ferret1.png")
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
